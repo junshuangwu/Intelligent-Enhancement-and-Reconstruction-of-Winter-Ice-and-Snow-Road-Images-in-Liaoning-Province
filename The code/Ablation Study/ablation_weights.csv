@@ -1,0 +1,10 @@
+﻿indicator,weight
+entropy_enh,0.05114516274635013
+contrast_enh,0.09993201000734975
+edge_strength_enh,0.19023425548891132
+laplacian_var_enh,0.2430305894549717
+edge_keep_ratio,0.22343489580926518
+ssim_to_original,0.03762752724185459
+mean_brightness_balance,0.1032274246912484
+over_exposure_enh,0.00903264235725148
+noise_est_enh,0.04233549220279747
